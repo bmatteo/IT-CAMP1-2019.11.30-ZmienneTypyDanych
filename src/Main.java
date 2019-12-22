@@ -13,6 +13,9 @@ public class Main {
 
 
 
+
+
+
         System.out.println(mojaZmienna);
         System.out.println(stanKonta);
         System.out.println(wiek);
